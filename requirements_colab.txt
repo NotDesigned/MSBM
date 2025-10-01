@@ -1,0 +1,36 @@
+tensorflow
+
+# --- Trainer / Config ---
+pytorch-lightning==1.9.5
+hydra-core
+omegaconf
+
+# --- Vision / Metrics / Eval ---
+albumentations
+basicsr
+clean-fid
+lpips
+torchmetrics
+
+# --- SciPy stack ---
+numpy==2.2.2
+pandas==2.2.2
+scikit-image
+scikit-learn
+pandas
+matplotlib
+
+# --- IO / Utils ---
+pillow
+imageio
+opencv-python
+tqdm
+huggingface-hub
+safetensors
+easydict
+addict
+geotorch
+tensorboard
+
+# IDK
+torch_ema
