@@ -1,2 +1,5 @@
 saved_info/**
 __pycache__
+.vscode
+*.pyc
+.DS_Store
