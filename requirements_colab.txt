@@ -5,16 +5,11 @@ pytorch-lightning==1.9.5
 hydra-core
 omegaconf
 
-# --- Vision / Metrics / Eval ---
-albumentations
-basicsr
 clean-fid
-lpips
-torchmetrics
 
 # --- SciPy stack ---
-numpy==2.2.2
-pandas==2.2.2
+numpy
+pandas
 scikit-image
 scikit-learn
 pandas
